@@ -1,0 +1,495 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Logging>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:30</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:29</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:28</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:27</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:26</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:25</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:24</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:12</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:11</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:11</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:10</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:09</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:07</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:06</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:06</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:34:05</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:33:59</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:33:57</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:33:55</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:33:54</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:33:53</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:33:50</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:33:49</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:33:46</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:33:45</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:33:41</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:33:41</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:33:40</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:33:38</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:33:37</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:33:36</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:33:31</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:33:30</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/DeleteFolder</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:33:26</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:33:24</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/CreateNewFolder</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:33:20</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/CreateFile</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:32:51</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:32:49</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/DeleteFolder</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:32:40</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:30:39</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:30:38</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:30:36</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:30:35</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:30:35</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:30:32</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:30:30</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:30:29</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:30:26</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:30:23</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:30:21</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/DeleteFolder</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:30:19</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/DeleteFile. Reason: DeleteFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:30:15</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:29:52</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/DeleteFolder</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:29:47</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:29:46</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/DeleteFolder</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:29:42</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:29:41</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/DeleteFolder</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:29:32</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:29:30</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/CreateNewFolder</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:29:27</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/DeleteFolder</Info>
+  <User>folder</User>
+  <Time>08/01/2021 17:29:23</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/CreateNewFolder</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:17</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:16</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:15</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:14</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:14</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:13</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:10</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:09</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:09</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:08</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:07</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:06</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:05</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:04</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:04</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:03</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:28:00</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:27:43</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:27:42</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:27:40</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/DeleteFolder. Reason: DeleteFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:27:19</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>read</User>
+  <Time>08/01/2021 17:25:34</Time>
+  <Info>User read successfully accessed to http://tempuri.org/IClientServices/Read</Info>
+  <User>read</User>
+  <Time>08/01/2021 17:25:26</Time>
+  <Info>User read successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>read</User>
+  <Time>08/01/2021 17:25:22</Time>
+  <Info>User read successfully accessed to http://tempuri.org/IClientServices/CreateFile</Info>
+  <User>read</User>
+  <Time>08/01/2021 17:25:05</Time>
+  <Info>User read successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>read</User>
+  <Time>08/01/2021 17:25:00</Time>
+  <Info>User read successfully accessed to http://tempuri.org/IClientServices/CreateFile</Info>
+  <User>read</User>
+  <Time>08/01/2021 17:24:43</Time>
+  <Info>User read successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>read</User>
+  <Time>08/01/2021 17:19:35</Time>
+  <Info>User read successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>read</User>
+  <Time>08/01/2021 17:19:34</Time>
+  <Info>User read successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>read</User>
+  <Time>08/01/2021 17:19:34</Time>
+  <Info>User read successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>read</User>
+  <Time>08/01/2021 17:19:32</Time>
+  <Info>User read successfully accessed to http://tempuri.org/IClientServices/Read</Info>
+  <User>read</User>
+  <Time>08/01/2021 17:19:17</Time>
+  <Info>User read successfully accessed to http://tempuri.org/IClientServices/ViewFiles</Info>
+  <User>file</User>
+  <Time>08/01/2021 17:10:20</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/Read</Info>
+  <User>file</User>
+  <Time>08/01/2021 16:56:47</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 16:56:46</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 16:56:45</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 16:56:43</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 16:56:42</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 16:56:40</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 16:56:35</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 16:56:32</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 16:56:29</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 16:56:24</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>08/01/2021 16:56:21</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:29:09</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:29:08</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:29:07</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:29:07</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:29:06</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:29:05</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:29:04</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:29:03</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:29:02</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:29:00</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/DeleteFile</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:28:58</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:28:57</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:28:56</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>folder</User>
+  <Time>06/01/2021 16:28:53</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/CreateFile. Reason: CreateFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>06/01/2021 16:28:51</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/CreateFile. Reason: CreateFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>06/01/2021 16:28:49</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/CreateFile. Reason: CreateFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>06/01/2021 16:28:47</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/CreateFile. Reason: CreateFile method need Manage File permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:28:42</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:28:41</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:57</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/Read</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:55</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/CreateFile</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:50</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/Read</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:48</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/Read</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:44</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/Read</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:33</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:32</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:31</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:29</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:28</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:17</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:15</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:15</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:14</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:12</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:08</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:05</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:03</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:02</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:27:01</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:26:59</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/DeleteFile</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:26:57</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/CreateFile</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:26:54</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/DeleteFile</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:26:51</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/CreateFile</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:26:37</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/CreateFile</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:26:32</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:26:26</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:26:23</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:23:00</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/CreateFile</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:21:50</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/CreateFile</Info>
+  <User>folder</User>
+  <Time>06/01/2021 16:19:49</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/CreateNewFolder</Info>
+  <User>file</User>
+  <Time>06/01/2021 16:18:59</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>05/01/2021 15:12:11</Time>
+  <Info>User file failed to access http://tempuri.org/IClientServices/CreateNewFolder. Reason: CreateNewFolder method need Manage Folder permission,</Info>
+  <User>file</User>
+  <Time>05/01/2021 15:12:06</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/Read</Info>
+  <User>file</User>
+  <Time>05/01/2021 15:12:04</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/AppendFile</Info>
+  <User>file</User>
+  <Time>05/01/2021 15:12:01</Time>
+  <Info>User file successfully accessed to http://tempuri.org/IClientServices/CreateFile</Info>
+  <User>folder</User>
+  <Time>05/01/2021 15:11:35</Time>
+  <Info>User folder failed to access http://tempuri.org/IClientServices/CreateFile. Reason: CreateFile method need Manage File permission,</Info>
+  <User>folder</User>
+  <Time>05/01/2021 15:11:31</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/DeleteFolder</Info>
+  <User>folder</User>
+  <Time>05/01/2021 15:11:28</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/CreateNewFolder</Info>
+  <User>folder</User>
+  <Time>05/01/2021 15:11:12</Time>
+  <Info>User folder successfully accessed to http://tempuri.org/IClientServices/CreateNewFolder</Info>
+</Logging>

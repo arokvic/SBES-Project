@@ -1,0 +1,12 @@
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\CLSServer\bin\Debug\CLSServer.exe.config
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\CLSServer\bin\Debug\CLSServer.exe
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\CLSServer\bin\Debug\CLSServer.pdb
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\CLSServer\bin\Debug\Manager.dll
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\CLSServer\bin\Debug\Services.dll
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\CLSServer\bin\Debug\Manager.pdb
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\CLSServer\bin\Debug\Services.pdb
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\CLSServer\obj\Debug\CLSServer.csprojAssemblyReference.cache
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\CLSServer\obj\Debug\CLSServer.csproj.CoreCompileInputs.cache
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\CLSServer\obj\Debug\CLSServer.csproj.CopyComplete
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\CLSServer\obj\Debug\CLSServer.exe
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\CLSServer\obj\Debug\CLSServer.pdb

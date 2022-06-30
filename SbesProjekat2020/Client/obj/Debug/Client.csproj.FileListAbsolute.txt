@@ -1,0 +1,10 @@
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Client\bin\Debug\Client.exe.config
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Client\bin\Debug\Client.exe
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Client\bin\Debug\Client.pdb
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Client\bin\Debug\Services.dll
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Client\bin\Debug\Services.pdb
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Client\obj\Debug\Client.exe
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Client\obj\Debug\Client.pdb

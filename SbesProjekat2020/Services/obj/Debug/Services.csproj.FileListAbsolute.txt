@@ -1,0 +1,12 @@
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Services\bin\Debug\Services.dll
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Services\bin\Debug\Services.pdb
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Services\obj\Debug\Services.dll
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Services\obj\Debug\Services.pdb
+C:\Users\Win10\Desktop\DRSPULL1\SbesProjekat\SbesProjekat2020\Services\bin\Debug\Services.dll
+C:\Users\Win10\Desktop\DRSPULL1\SbesProjekat\SbesProjekat2020\Services\bin\Debug\Services.pdb
+C:\Users\Win10\Desktop\DRSPULL1\SbesProjekat\SbesProjekat2020\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\DRSPULL1\SbesProjekat\SbesProjekat2020\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\DRSPULL1\SbesProjekat\SbesProjekat2020\Services\obj\Debug\Services.dll
+C:\Users\Win10\Desktop\DRSPULL1\SbesProjekat\SbesProjekat2020\Services\obj\Debug\Services.pdb

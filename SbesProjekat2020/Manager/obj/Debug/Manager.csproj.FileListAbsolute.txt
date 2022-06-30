@@ -1,0 +1,17 @@
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Manager\bin\Debug\Manager.dll
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Manager\bin\Debug\Manager.pdb
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Manager\obj\Debug\Manager.dll
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Manager\obj\Debug\Manager.pdb
+C:\Users\Win10\Desktop\DRSPULL1\SbesProjekat\SbesProjekat2020\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+C:\Users\Win10\Desktop\DRSPULL1\SbesProjekat\SbesProjekat2020\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\DRSPULL1\SbesProjekat\SbesProjekat2020\Manager\obj\Debug\Manager.dll
+C:\Users\Win10\Desktop\DRSPULL1\SbesProjekat\SbesProjekat2020\Manager\obj\Debug\Manager.pdb
+C:\Users\Win10\Desktop\DRSPULL1\SbesProjekat\SbesProjekat2020\Manager\bin\Debug\Manager.dll
+C:\Users\Win10\Desktop\DRSPULL1\SbesProjekat\SbesProjekat2020\Manager\bin\Debug\Manager.pdb
+C:\Users\Win10\Desktop\DRSPULL1\SbesProjekat\SbesProjekat2020\Manager\obj\Debug\Manager.RolesConfigFile.resources
+C:\Users\Win10\Desktop\DRSPULL1\SbesProjekat\SbesProjekat2020\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Manager\obj\Debug\Manager.AuditEventFile.resources
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Manager\obj\Debug\Manager.RolesConfigFile.resources
+C:\Users\38165\Documents\GitHub\SbesProjekat\SbesProjekat2020\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
